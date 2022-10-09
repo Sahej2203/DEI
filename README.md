@@ -1,3 +1,2 @@
-# DEI
-This  is my first repository
-This is my first commit
+# tinDog
+The online marketplace that matches dog owners in need of pet-care services with qualified pet caregivers.
